@@ -1,8 +1,3 @@
-Deployed link (Netlify)
-
-https://64c53b264de7b101ef518e39--fantastic-moonbeam-ef5ad3.netlify.app/
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
