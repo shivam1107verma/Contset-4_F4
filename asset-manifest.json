@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Contest-4_F4/static/css/main.ac400f6c.css",
+    "main.js": "/Contest-4_F4/static/js/main.1a0ee33e.js",
+    "static/media/Background Pattern.png": "/Contest-4_F4/static/media/Background Pattern.e4649f0361c8661741bd.png",
+    "index.html": "/Contest-4_F4/index.html",
+    "main.ac400f6c.css.map": "/Contest-4_F4/static/css/main.ac400f6c.css.map",
+    "main.1a0ee33e.js.map": "/Contest-4_F4/static/js/main.1a0ee33e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac400f6c.css",
+    "static/js/main.1a0ee33e.js"
+  ]
+}
